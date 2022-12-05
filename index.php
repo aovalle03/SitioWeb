@@ -11,6 +11,8 @@
                 <p class="lead">
                     <a class="btn btn-primary btn-lg" href="productos.php" role="button">Ver almacen de videojuegos</a>
                 </p>
+
+                <p>es es un nuevo cambio</p>
             </div>
 
 
